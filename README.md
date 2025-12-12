@@ -1,9 +1,12 @@
-## 🏦 Insurance Policy Data Engineering Pipeline
-## Neural Nexus
-Kannam Susheel Kumar (22CS01058)
-Bapathu Deekshitha (22ME01036)
-Meena Kalyani (22ME01051)
+# 🏦 INSURANCE POLICY DATA ENGINEERING PIPELINE
+## Team: Neural Nexus
+
+### Team Members
+Kannam Susheel Kumar (22CS01058)  
+Bapathu Deekshitha (22ME01036)  
+Meena Kalyani (22ME01051)  
 Kanuri Venkata Ramana (22CS01035)
+
 
 A complete end-to-end ETL + Data Warehouse solution built for multi-region, multi-day insurance policy data.
 This project demonstrates real-world data engineering best practices including:
