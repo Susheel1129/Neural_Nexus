@@ -1,0 +1,8 @@
+{
+  "rows_in": 1172,
+  "rows_out": 1172,
+  "missing_customer_id": 0,
+  "missing_policy_id": 0,
+  "standardized_file": "C:\\Users\\anith\\Desktop\\insurance_project\\data\\staging\\standardized_cleaned_all.csv",
+  "issues_file": null
+}

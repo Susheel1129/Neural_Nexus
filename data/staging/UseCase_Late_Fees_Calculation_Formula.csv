@@ -1,0 +1,7 @@
+,,,,,,,,,,,Late Payment Calculation,,,
+Customer ID,Customer Name,Policy_Id,Policy_Name,Premium_Amt,Policy_Term,Policy_Start_Dt,Policy_End_Dt,Next_Premium_Dt,Actual_Premium_Paid_Dt,,Duration between Actual to Premium,Percentage Late Fees,Late_Fees,Actual Premium Amt to be paid
+1354,Aaron Dillon,19182_697,HSB_WholeLife_22468,60000,Half Yearly,01/01/2012,01/01/2112,03/30/2012,09/24/2012,,5,0.025,1500,61500
+697,Adam G Sawyer,19183_674,HSB_Endowment_19183,5000,Quarterly,01/01/2013,01/01/2112,07/01/2013,01/01/2014,,6,0.03,150,5150
+674,Albert Frost,19184_188,HSB_Moneyback_19184,5000,Quarterly,01/01/2014,12/27/2036,03/31/2014,09/25/2014,,5,0.025,125,5125
+188,Alex Harrell,19185_3106,HSB_ChildPlan_19185,5000,Quarterly,01/01/2015,12/27/2035,03/31/2015,09/25/2015,,5,0.025,125,5125
+3106,Alexander O'Brien,19186_597,HSB_UnitLinked_19186,5000,Quarterly,01/01/2012,12/27/2037,03/30/2012,09/24/2012,,5,0.025,125,5125

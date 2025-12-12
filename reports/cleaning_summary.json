@@ -1,0 +1,24 @@
+{
+  "input_rows": 1211,
+  "cleaned_rows": 1172,
+  "duplicates_dropped": 39,
+  "parsed_date_columns": [
+    "policy_start_dt",
+    "policy_end_dt",
+    "next_premium_dt",
+    "actual_premium_paid_dt",
+    "dob",
+    "effective_start_dt",
+    "effective_end_dt"
+  ],
+  "hash_columns": [
+    "customer_id",
+    "policy_id",
+    "policy_type",
+    "premium_amt",
+    "region",
+    "next_premium_dt",
+    "actual_premium_paid_dt"
+  ],
+  "cleaned_file": "C:\\Users\\anith\\Desktop\\insurance_project\\data\\staging\\cleaned_all.csv"
+}
