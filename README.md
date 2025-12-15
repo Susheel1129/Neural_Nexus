@@ -1,4 +1,5 @@
-# 🏦 INSURANCE POLICY DATA ENGINEERING PIPELINE
+#  INSURANCE POLICY DATA ENGINEERING PIPELINE
+# HCL TECH HACKATHON 
 ## Team: Neural Nexus
 
 ### Team Members
@@ -7,8 +8,14 @@ Bapathu Deekshitha (22ME01036)
 Meena Kalyani (22ME01051)  
 Kanuri Venkata Ramana (22CS01035)
 
+## Hackathon Use Case 
+<img width="905" height="1280" alt="image" src="https://github.com/user-attachments/assets/40668ffb-1a13-45ab-8aab-326450c5769a" />
+<img width="912" height="1280" alt="image" src="https://github.com/user-attachments/assets/9ffc9a8c-4185-4083-88af-42f9a077cacb" />
+<img width="889" height="1280" alt="image" src="https://github.com/user-attachments/assets/8bcc90a2-c310-492f-8b23-d8fd57606c74" />
+<img width="891" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce5dbab7-4268-4aec-8838-58bbe23a64a2" />
 
-A complete end-to-end ETL + Data Warehouse solution built for multi-region, multi-day insurance policy data.
+
+Building a complete end-to-end ETL + Data Warehouse solution built for multi-region, multi-day insurance policy data.
 This project demonstrates real-world data engineering best practices including:
 
 Daily batch ingestion
@@ -23,7 +30,7 @@ Business rule processing (late fees)
 
 Automated analytical reporting
 
-## 📂 Project Architecture
+##  Project Architecture
 
 Raw data arrives from 4 U.S. regions (East, West, South, Central) for day0, day1, and day2.
 
